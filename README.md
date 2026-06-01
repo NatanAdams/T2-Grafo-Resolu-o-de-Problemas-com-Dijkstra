@@ -1,9 +1,9 @@
-# Trabalho 2 - Caminhos Mínimos: C. Dijkstra?
+# Trabalho 2 - Caminhos Mínimos: C. Dijkstra
 
 Este repositório contém a resolução estruturada do problema de modelagem de grafos e caminhos mínimos proposto na disciplina.
 
 ## Informações Gerais
-* **Nome do Problema:** C. Dijkstra?
+* **Nome do Problema:** C. Dijkstra
 * **Link do Problema:** [Codeforces - Problem 20C](https://codeforces.com/problemset/problem/20/C?adcd1e=caf4fogv6ptzrn&csrf_token=1d65aacbfddc93843b8f5459a3fd9a00)
 * **Linguagem Utilizada:** Java
 * **Integrantes do Grupo:** Samuel Moreira, Luis Guilherme, Natan Adams, José Guilherme
